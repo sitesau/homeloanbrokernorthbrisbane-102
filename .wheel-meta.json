@@ -1,0 +1,16 @@
+{
+  "wheel_id": 8,
+  "slug": "homeloanbrokernorthbrisbane-102",
+  "project": "first-home-buyer-loan-north-brisbane-w8",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-001",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "first home buyer loan north brisbane",
+  "intended_url": "https://first-home-buyer-loan-north-brisbane-w8.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://mortgage-broker-north-brisbane-w8.netlify.app/",
+      "anchor": "mortgage broker north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
